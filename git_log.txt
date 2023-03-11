@@ -1,0 +1,57 @@
+commit 2b4c7607f121d5f4b59d44b5503a730fd37e5eb6
+Author: Hammad Mir <hammaduleaman@gmail.com>
+Date:   Sun Jan 16 19:41:15 2022 +0000
+
+    created the project folder structure
+commit a027240c3aa7939fc3577d3d1e11178df7e61eee
+Author: Hammad Mir <hammaduleaman@gmail.com>
+Date:   Tue Jan 18 00:39:30 2022 +0000
+
+    separated images based on lesion type
+
+commit 83bb521f0aa14c3c9e7b8779f9bbcb76ced792fb
+Author: Hammad Mir <hammaduleaman@gmail.com>
+Date:   Mon Jan 17 21:02:19 2022 +0000
+
+    preliminary EDA done and report draft creaated
+
+commit 4e28e358f2d52eee33ae335d90237deacb2e705d
+Author: Hammad Mir <hammaduleaman@gmail.com>
+Date:   Sun Jan 16 19:44:26 2022 +0000
+
+    added git log file
+
+commit 2b4c7607f121d5f4b59d44b5503a730fd37e5eb6
+Author: Hammad Mir <hammaduleaman@gmail.com>
+Date:   Sun Jan 16 19:41:15 2022 +0000
+
+    created the project folder structure
+commit 91ffcbb682a0e5894733c6384bf6f94ced655065
+Author: Hammad Mir <hammaduleaman@gmail.com>
+Date:   Fri Jan 28 11:27:49 2022 +0000
+
+    classification using cnn completed and report finished
+
+commit a027240c3aa7939fc3577d3d1e11178df7e61eee
+Author: Hammad Mir <hammaduleaman@gmail.com>
+Date:   Tue Jan 18 00:39:30 2022 +0000
+
+    separated images based on lesion type
+
+commit 83bb521f0aa14c3c9e7b8779f9bbcb76ced792fb
+Author: Hammad Mir <hammaduleaman@gmail.com>
+Date:   Mon Jan 17 21:02:19 2022 +0000
+
+    preliminary EDA done and report draft creaated
+
+commit 4e28e358f2d52eee33ae335d90237deacb2e705d
+Author: Hammad Mir <hammaduleaman@gmail.com>
+Date:   Sun Jan 16 19:44:26 2022 +0000
+
+    added git log file
+
+commit 2b4c7607f121d5f4b59d44b5503a730fd37e5eb6
+Author: Hammad Mir <hammaduleaman@gmail.com>
+Date:   Sun Jan 16 19:41:15 2022 +0000
+
+    created the project folder structure
